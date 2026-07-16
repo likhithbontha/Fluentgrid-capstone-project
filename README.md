@@ -1,7 +1,7 @@
-# IBM Data Analyst Capstone Project
+# FluentGrid Data Analysis project
 
 ## Overview
-This repository contains the final capstone project for the IBM Data Analyst Professional Certificate. By completing this project, I applied various Data Analytics skills and techniques learned throughout the course. As an Associate Data Analyst, I was presented with a business challenge requiring data analysis on real-world datasets.
+This repository contains the final capstone project for the Fluentgrid Data Analyst Internship project. By completing this project, I applied various Data Analytics skills and techniques learned throughout the course. As an Associate Data Analyst, I was presented with a business challenge requiring data analysis on real-world datasets.
 
 ## Project Tasks
 Throughout this project, I performed various tasks that professional data analysts do as part of their jobs, including:
@@ -34,5 +34,5 @@ The project culminates with a presentation of the data analysis report for vario
 3. Open the Jupyter notebooks in the `notebooks/` directory to explore the analysis.
 4. View the final report in the `report/` directory.
 
-## Acknowledgements
-This project is part of the IBM Data Analyst Professional Certificate on Coursera. Special thanks to the instructors and the IBM team for their guidance and support.
+
+
