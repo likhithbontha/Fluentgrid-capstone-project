@@ -19,7 +19,7 @@ The following tools and technologies were used in this project:
 - **Jupyter Notebooks**: For documenting and running the analysis.
 - **Python Libraries**: Including Pandas, Numpy, Scikit-learn, Scipy, Matplotlib, and Seaborn.
 - **SQL and Relational Databases (RDBMS)**: For data storage and querying.
-- **Business Intelligence (BI) Tools**: Such as IBM Cognos Analytics for dashboard creation.
+
 
 ## Final Deliverable
 The project culminates with a presentation of the data analysis report for various stakeholders in the organization. The report includes:
